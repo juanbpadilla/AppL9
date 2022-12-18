@@ -148,7 +148,10 @@ return [
 
     'attributes' => [
         'title' => 'título',
-        'body' => 'contenido'
+        'body' => 'contenido',
+        'name' => 'nombre',
+        'email' => 'Correo electrónico',
+        'password' => 'Contraseña'
     ],
 
 ];
